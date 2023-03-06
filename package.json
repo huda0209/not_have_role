@@ -1,0 +1,9 @@
+{
+  "name": "not_have_role",
+  "version": "1.0.0",
+  "description": "List or KICK those that belong to the Discord server and do not have a role.",
+  "main": "index.js",
+  "repository": "https://github.com/huda0209/not_have_role.git",
+  "author": "huda0209",
+  "license": "MIT"
+}

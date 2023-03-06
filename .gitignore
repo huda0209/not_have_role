@@ -1,0 +1,12 @@
+# SystemDir
+/node_modules/
+/.idea/
+
+#apps config
+/config/
+
+#log files
+/logs/
+
+#dev file
+start_ps.bat
